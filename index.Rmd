@@ -1,0 +1,41 @@
+---
+title: "Hannah Moore"
+image: "headshot_2026.PNG"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/hannah-moore-bb896440a/"
+  - label: GitHub
+    url: "https://github.com/hannahmoore6"
+  - label: Email
+    url: "mailto:hmoore14@jh.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Hi! I am a scientist studying long-covid in the Johns Hopkins Department of Molecular and Comparative Pathobiology. My thesis is exploring how immune dysregulation is connected to increased blood brain barrier permeability in people with long-covid. I use data science to analyze high-dimensional data! (Single-cell RNA sequencing, high dimensional flow cytometry, large clinical datasets, etc.)
+
+## Education
+
+**Johns Hopkins School of Medicine** | Baltimore, MD
+
+PhD in Immunology | August 2024-present
+
+**University of Pittsburgh** | Pittsburgh, PA
+
+B.S. in Molecular Biology & Biochemistry | 2018-2022
+
+## Fun Facts:
+
+1. I have a cat (tuxedo) & a gecko (crested)!
+2. I love to bake, read, crochet, and take miscellaneous art classes.
+3. My favorite books are the Murderbot Diaries and Gideon the Ninth
+4. I have POTS and use my lived experience with post-acute infectious syndrome to inform my research!
+5. I have a pothos tattoo that I add to whenever I accomplish something so it grows with me :) 
+
+## Resources I Like:
+
+1. [This website is how i've learned to create R packages](https://r-pkgs.org/whole-game.html)
+2. [This website is great for thinking about color blindness when making color palettes](https://sronpersonalpages.nl/~pault/)
+3. [My first stop when I am not sure how to make a graph](https://r-graph-gallery.com/)
